@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-pandas==1.3.5
-=======
-pandas==2.0.3
->>>>>>> 24e1bde89a0cf091ab5fe2a62813462c6665b42b
-Requests==2.31.0
-streamlit==1.25.0
+
+
+
